@@ -11,8 +11,8 @@ A feladat sikeresen elkészült, extra részekből egyedül egyet csináltam meg
 - Ugyan AJAX-ot nem igazán használtam még, gondoltam egyszerű lesz beintegrálni.
   - Viszonylag egyszerűen sikerült is megoldani , sőt még animáció is van rajta.
 
-- Rögtön az inde.php oldalon amikor kilistázok mindent akkor egy hatalmas query-t csináltam ami (szinte) mindent táblát összeköt.
-  -Ennek egészen biztos vagyok hogy v an elegánsabb megoldása, de ez már csak simogatás kérdése. 
+- Rögtön az index.php oldalon amikor kilistázok mindent akkor egy hatalmas query-t csináltam ami (szinte) mindent táblát összeköt.
+  - Ennek egészen biztos vagyok hogy v an elegánsabb megoldása, de ez már csak simogatás kérdése. 
 
 
 ### Extra
